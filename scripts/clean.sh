@@ -1,0 +1,1 @@
+rm -rf liboqs-python liboqs venv env
